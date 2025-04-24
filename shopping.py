@@ -34,3 +34,4 @@ for item in cart.items:
 
 total_qty = cart.calculate_total()
 print("Total Quantity:", total_qty)
+
